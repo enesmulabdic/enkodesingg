@@ -1,0 +1,640 @@
+
+
+@media only screen and (min-width: 992px) and (max-width: 1199px) {}
+
+@media (min-width: 768px) and (max-width: 991px) {
+    .top-navbar .navbar-light .navbar-nav .nav-item::before {
+        display: none;
+    }
+
+    .top-navbar .navbar-light .navbar-nav .nav-link:hover {
+        background: #333333;
+    }
+
+    .top-navbar .navbar-light .navbar-toggler {
+        border-radius: 0px;
+    }
+
+    .seo_version .sl-slider h2,
+    .seo_version .sl-slider blockquote {
+        padding: 20px 15px 10px 15px;
+        width: 90%;
+    }
+
+    .bttn-new {
+        width: 180px;
+        padding: 10px 0px;
+        font-size: 14px;
+    }
+
+    .section-title h3 {
+        font-size: 28px;
+    }
+
+    
+
+
+    .bttn-new-a {
+        width: 180px;
+        font-size: 14px;
+    }
+    
+    .bttn-new-a-portfolio {
+        width: 180px;
+        font-size: 14px;
+    }
+    
+
+   
+    .message-box h2 {
+        font-size: 28px;
+    }
+
+    .da-thumbs .pitem span div h4 {
+        font-size: 20px;
+    }
+
+    .da-thumbs .pitem span div p {
+        font-size: 14px;
+    }
+
+
+    .map-box {
+        padding: 40px 15px;
+    }
+    
+    
+}
+
+
+/********Thi is my try*************/
+
+
+
+@media (min-width: 1550px) and (max-width: 1920px) {
+
+    .seo_version .sl-slider-wrapper {
+        width: 100%;
+        height: 890px !important;
+        overflow: hidden;
+        position: relative;
+
+    }
+
+
+
+}
+
+
+
+
+
+
+@media (max-width: 767px) {
+    .top-navbar .navbar-light .navbar-nav .nav-item::before {
+        display: none;
+    }
+
+    .top-navbar .navbar-light .navbar-nav .nav-link:hover {
+        background: #333333;
+    }
+
+    .top-navbar .navbar-light .navbar-toggler {
+        border-radius: 0px;
+    }
+    
+    .top-navbar .navbar-dark .navbar-nav .nav-item::before {
+    -webkit-transition: all 0.500ms ease;
+    -ms-transition: all 0.500ms ease;
+    -o-transition: all 0.500ms ease;
+    transition: all 0.500ms ease;
+}
+    
+    
+    
+    
+    
+
+    .seo_version .sl-slider h2 {
+        font-size: 25px;
+    }
+
+
+    .seo_version .sl-slider h2,
+    .seo_version .sl-slider blockquote {
+        padding: 20px 15px 10px 15px;
+        width: 90%;
+    }
+
+    .bttn-new {
+        width: 180px;
+        padding: 10px 0px;
+        font-size: 14px;
+    }
+
+    .section-title h3 {
+        font-size: 28px;
+    }
+
+    .why-dit h4 {
+        font-size: 22px;
+    }
+
+    
+
+
+    .bttn-new-a {
+        width: 180px;
+        font-size: 14px;
+    }
+    
+    .bttn-new-a-portfolio{
+        width: 180px;
+        font-size: 14px;
+        
+    }
+
+    
+
+    .message-box h2 {
+        font-size: 28px;
+    }
+
+    .da-thumbs .pitem span div h3 {
+        font-size: 20px;
+    }
+
+    .da-thumbs .pitem span div p {
+        font-size: 14px;
+    }
+    
+
+    .map-box {
+        padding: 40px 15px;
+    }
+    
+/*Blog*/
+
+    .blog-section {
+      padding: 1.4em 0; 
+      }
+      
+    .blog-entry {
+      margin-bottom: 30px; }
+    
+    
+    .blog-container {
+  
+    -webkit-transition: all 0.2s ease;
+    -moz-transition: all 0.2s ease;
+    -o-transition: all 0.2s ease;
+    -ms-transition: all 0.2s ease;
+    transition: all 0.2s ease;
+    
+
+}
+
+.blog-img {
+    -webkit-transition: all 0.2s ease-in-out;
+    -moz-transition: all 0.2s ease-in-out;
+    -o-transition: all 0.2s ease-in-out;
+    -ms-transition: all 0.2s ease-in-out;
+    transition: all 0.2s ease-in-out;
+}
+
+/*End Blog*/
+     
+}
+
+
+
+
+
+
+
+/******** 280to 599***********/
+
+@media only screen and (min-width: 280px) and (max-width: 599px) {
+    .top-navbar .navbar-light .navbar-nav .nav-item::before {
+        display: none;
+    }
+
+    .top-navbar .navbar-light .navbar-nav .nav-link:hover {
+        background: #333333;
+    }
+
+    .top-navbar .navbar-light .navbar-toggler {
+        border-radius: 0px;
+    }
+
+    .seo_version .sl-slider h2,
+    .seo_version .sl-slider blockquote {
+        padding: 20px 15px 10px 15px;
+        width: 90%;
+    }
+
+    .bttn-new {
+        width: 180px;
+        padding: 10px 0px;
+        font-size: 14px;
+    }
+
+    .section-title h3 {
+        font-size: 28px;
+    }
+
+    .why-dit h4 {
+        font-size: 22px;
+    }
+
+    
+   
+
+    .bttn-new-a {
+        width: 180px;
+        font-size: 14px;
+    }
+    
+     /*Portfolio*/
+    
+    .all-page-title-portfolio{padding: 40px 0px 10px 0px;;
+    }
+    
+    .all-page-title-portfolio .cd-headline.clip span{
+		font-size: 20px;
+        
+	}
+    .contact-text-portfolio{font-size: 16px;
+                            margin-top:5px;
+    }
+
+    .section-portfolio { padding-bottom:50px;
+    }
+    
+    .da-thumbs .pitem {padding:5px;
+                                           
+    }
+    .da-thumbs .pitem span,
+    .da-thumbs .pitem span img {width: 356px;
+                                height:225px;
+    }
+    
+     .da-thumbs .pitem span div h4 { font-size: 19px;
+    }
+    
+
+    .da-thumbs .pitem span div p {font-size: 12px;
+                                  text-align:left;   
+    }
+    
+  .da-thumbs .pitem .bttn-new-a-portfolio {font-size: 12px;
+                                           cursor: pointer;
+                                            width: 90px;
+                                            padding:5px;
+                                            margin-top:20px;
+    }
+        
+    .bttn-new-portfolio-contact {font-size: 15px;
+                                 letter-spacing: 2px;
+                                 cursor: pointer;
+                                 width: 160px;
+                                 padding: 10px 0px;                       
+  }
+    
+    
+    
+    
+    /*End Portfolio*/
+    
+    
+    
+    
+    
+    
+    
+    .message-box h2 {
+        font-size: 28px;
+    }
+
+    .da-thumbs .pitem span div h3 {
+        font-size: 20px;
+    }
+
+    .da-thumbs .pitem span div p {
+        font-size: 14px;
+    }
+
+  
+
+
+
+    
+
+    .map-box {
+        padding: 40px 15px;
+    }
+
+    .seo_version .sl-slider blockquote p {
+        font-size: 18px;
+    }
+}
+
+
+
+
+
+
+
+
+/********568 to 850***********/
+@media only screen and (min-width: 567px) and (max-width: 850px) {
+
+     /*Portfolio*/
+    
+      .all-page-title-portfolio .cd-headline.clip span{font-size: 33px;
+        
+     }
+     .da-thumbs .pitem {padding:2px;
+                    
+     }
+      .da-thumbs .pitem span {padding:auto;
+                              
+                    
+     }
+    
+    
+    .da-thumbs .pitem span,
+    .da-thumbs .pitem span img {width: 355px;
+                                height:200px;
+                                
+    }
+    
+     .da-thumbs .pitem span div h4 { font-size: 22px;
+    }
+    
+
+    .da-thumbs .pitem span div p {font-size: 14px;
+                                  text-align:left;   
+    }
+    
+  .da-thumbs .pitem .bttn-new-a-portfolio {font-size: 12px;
+                                            cursor: pointer;
+                                            width: 90px;
+                                            padding:5px;
+                                            margin-top:5px;
+    }
+    
+    .bttn-new-portfolio-contact {font-size: 16px;
+                                 letter-spacing: 2px;
+                                 cursor: pointer;
+                                 width: 170px;
+                                 padding: 10px 0px;                       
+  }
+    
+    
+    
+/*End Portfolio*/    
+    
+}
+
+
+
+@media only screen and (min-width: 1023px) and (max-width: 1358px) {
+    
+    /* Portfolio*/    
+   
+          
+    .da-thumbs .pitem span,
+    .da-thumbs .pitem span img {height:270px;
+                                
+    }
+
+    
+    
+    
+    /*End Portfolio*/    
+}
+
+
+
+
+/********1560to 2500***********/
+
+
+@media only screen and (min-width: 1560px) and (max-width: 2500px) {
+    
+    /* Portfolio*/    
+    
+    .da-thumbs .pitem .bttn-new-a-portfolio{margin-top:25px;
+    }
+    
+    /*End Portfolio*/    
+}
+
+
+
+
+
+
+
+
+
+
+
+
+/*Services*/
+
+@media only screen and (min-width: 992px) and (max-width: 1199px) {
+
+    .section-padding3 {
+        padding-top: 100px;
+        padding-bottom: 100px;
+    }
+}
+
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+
+    .section-padding3 {
+        padding-top: 95px;
+        padding-bottom: 0px;
+    }
+
+    /*Blog*/
+    .blog,
+    .all-page-title-blog .bolg-our {
+        font-size: 55px;
+    }
+
+    /*End Blog*/
+
+}
+
+@media only screen and (min-width: 576px) and (max-width: 746px) {
+
+    .section-padding3 {
+        padding-top: 60px;
+        padding-bottom: 60;
+    }
+    
+    
+    
+ 
+
+    /*Blog*/
+    .blog,
+    .all-page-title-blog .bolg-our {
+        font-size: 55px;
+    }
+
+    /*End Blog*/
+    
+    /*Single Blog*/
+    .all-page-title-blog-single {
+        padding: 70px 0px 70px 0px;
+        margin-bottom: -55px;
+    }
+    
+    /* End Single Blog*/
+    
+    
+      /*Contact*/
+    
+    .cd-headline.clip span{
+		font-size: 36px;
+	}
+    
+     /*Contact*/
+    
+    
+    
+    
+
+}
+
+@media (max-width: 575px) {
+
+    .section-padding3 {
+        padding-top: 60px;
+        padding-bottom: 0;
+    }
+
+    /*Blog*/
+    .blog,
+    .all-page-title-blog .bolg-our {
+        font-size: 35px;
+    }
+
+    .blog1 {
+        font-size: 18px;
+        padding-left: 6px;
+        padding-right: 6px;
+        line-height: 1.4 !important;
+    }
+
+    /*End Blog*/
+    
+    
+    /*Single Blog*/
+
+    .single-block {
+        font-size: 14px;
+
+    }
+
+    .fa-angle-double-left {
+        font-size: 16px;
+    }
+
+    .all-page-title-blog-single {
+        padding: 70px 0px 70px 0px !important;
+        margin-bottom: -55px !important;
+    }
+
+   .image-person{width: 50px;
+                 height: 50px;
+        
+    }
+    /*End Single Blog*/
+    /*Contact*/
+    
+    .cd-headline.clip span{
+		font-size: 26px;
+	}
+    
+     /*Contact*/
+    
+    
+    
+
+
+}
+
+      
+
+
+
+
+
+@media (max-width: 575px) {
+
+    .section-tittle {
+        margin-bottom: 50px;
+    }
+
+    .section-tittle span {
+        font-size: 20px !important;
+    }
+
+
+    .section-tittle p {
+        font-size: 14px !important;
+        line-height: 1.6;
+
+    }
+
+
+
+}
+
+@media only screen and (min-width: 576px) and (max-width: 767px) {
+
+    .section-tittle {
+        margin-bottom: 50px;
+    }
+
+    .section-tittle p {
+        font-size: 18px !important;
+        line-height: 1.6;
+    }
+
+}
+
+
+
+
+
+@media only screen and (min-width: 992px) and (max-width: 1199px) {
+
+    .section-tittle p {
+        font-size: 22px !important;
+        line-height: 1.6;
+
+    }
+}
+
+
+/*End Services*/
+
+
+
+/*New responsive*/
+/*Advertisement  carousel  index.html page */
+@media (min-width: 320px)and (max-width: 540px) {
+    #logo-carousel img {
+        display: block;
+        width: 50%;
+        -webkit-transform-style: preserve-3d;
+        margin: auto;
+    }
+
+}
